@@ -33,5 +33,6 @@ public class lab1 {
         myMethod();
         myMethod("big boss");
         myMethod(5, 5);
+
     }
 }
